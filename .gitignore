@@ -1,0 +1,14 @@
+# Archivos generados por Visual Studio
+.vs/
+bin/
+obj/
+
+# Archivos de usuario y configuración
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de caché y logs
+*.log
+logs/
+*.cache
